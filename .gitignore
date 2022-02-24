@@ -1,8 +1,4 @@
-__pycache__/
-*.pyc
-
-*~
-\#*\#
-auto-save-list
-tramp
-.\#*
+# IDE metadata
+.idea/
+.vscode/
+*.iml
