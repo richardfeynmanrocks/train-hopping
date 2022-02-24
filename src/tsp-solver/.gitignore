@@ -1,0 +1,2 @@
+# N.B. `.gitignores` operate relative to themselves, not the Git root. That's neat... I guess.
+/target
